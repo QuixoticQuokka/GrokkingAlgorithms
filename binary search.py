@@ -1,4 +1,5 @@
 #//binary search implementation
+#//example from book, written in python
 #//assumptions: list is in sorted order
 
 def binary_search(list, item):
